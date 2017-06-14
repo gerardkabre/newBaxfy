@@ -1532,7 +1532,7 @@ header
     top: 0;
     z-index: 990;
     padding-right: 5%;
-    height: 60px;
+    height: 73px;
 }
 
 /* header logo */
@@ -1545,7 +1545,7 @@ header .logo
     z-index: 991;
     position: relative;
     max-width: 20%;
-    margin-top: 1%;
+    margin-top: 0.5%;
 }
 
 header .logo a
@@ -2939,6 +2939,6 @@ a#imagelightbox-close:hover, a#imagelightbox-close:focus
 
 header.scroll
 {
-    background-color: rgba(128, 128, 128, .4);
+    background-color: rgba(0, 0, 0, .2);
 }
 
