@@ -2833,6 +2833,9 @@ a#imagelightbox-close:hover, a#imagelightbox-close:focus
 .imgbrain
 {
     max-width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: -5%;
 }
 
 .rowtitlte
@@ -2840,86 +2843,5 @@ a#imagelightbox-close:hover, a#imagelightbox-close:focus
     margin-left: 30%;
     margin-right: 20%;
     display: inline-block;
-}
-
-.brain2
-{
-    max-width: 70%;
-    margin-top: -10%;
-}
-
-.columnleft
-{
-    max-width: 20%;
-    position: relative;
-    float: left;
-}
-
-.columncenter
-{
-    max-width: 60%;
-    float: left;
-    position: relative;
-    text-align: center;
-}
-
-.columnright
-{
-    max-width: 20%;
-    position: relative;
-    float: left;
-}
-
-.title
-{
-    display: block;
-    text-align: center;
-    margin-bottom: 5%;
-}
-
-.sobrenosotrostop
-{
-    padding-left: 10%;
-    padding-right: 10%;
-}
-
-.imageUS
-{
-    max-width: 50%;
-}
-
-.leftimageus
-{
-    float: right;
-}
-
-.imageusRight
-{
-    float: left;
-}
-
-.prueba3
-{
-    margin-bottom: 0;
-}
-
-.ARROW
-{
-    display: block;
-    text-align: center;
-    float: none;
-    clear: both;
-    margin-top: -4%;
-}
-
-.arrowdown
-{
-    max-width: 6%;
-    margin-top: -6%;
-}
-
-.iconsmktingimg
-{
-    max-width: 30%;
 }
 
