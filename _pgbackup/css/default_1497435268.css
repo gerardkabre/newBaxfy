@@ -1774,7 +1774,7 @@ ul#nav li.current a
 #features
 {
     background: #fff;
-    padding-top: 20px;
+    padding-top: 96px;
     padding-bottom: 78px;
     overflow: hidden;
 }
@@ -2821,27 +2821,13 @@ a#imagelightbox-close:hover, a#imagelightbox-close:focus
 
 .backgroundsection
 {
-    background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+  background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
 }
+
 
 .fotoplaneta
 {
     position: absolute;
     margin-top: -17%;
-}
-
-.imgbrain
-{
-    max-width: 60%;
-    margin-left: 20%;
-    margin-right: 20%;
-    margin-top: -5%;
-}
-
-.rowtitlte
-{
-    margin-left: 30%;
-    margin-right: 20%;
-    display: inline-block;
 }
 

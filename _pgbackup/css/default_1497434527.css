@@ -1673,7 +1673,7 @@ ul#nav li.current a
     padding-top: 66px;
     overflow: hidden;
     background-repeat: no-repeat;
-    background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+	background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
 }
 
 #hero .row
@@ -1774,7 +1774,7 @@ ul#nav li.current a
 #features
 {
     background: #fff;
-    padding-top: 20px;
+    padding-top: 96px;
     padding-bottom: 78px;
     overflow: hidden;
 }
@@ -2819,29 +2819,16 @@ a#imagelightbox-close:hover, a#imagelightbox-close:focus
     max-width: 49%;
 }
 
-.backgroundsection
-{
-    background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+.backgroundsection {
+    background: #141E30;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to top, #243B55, #141E30);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to top, #243B55, #141E30); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ 
 }
 
 .fotoplaneta
 {
     position: absolute;
     margin-top: -17%;
-}
-
-.imgbrain
-{
-    max-width: 60%;
-    margin-left: 20%;
-    margin-right: 20%;
-    margin-top: -5%;
-}
-
-.rowtitlte
-{
-    margin-left: 30%;
-    margin-right: 20%;
-    display: inline-block;
 }
 
